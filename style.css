@@ -1,0 +1,45 @@
+body {
+	padding: 7.5%;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+p {
+	margin: 22.5px 0;
+}
+
+#header {
+	font-size: 28px;
+	letter-spacing: 1px;
+}
+
+#header a {
+	color: #0006ff;
+	text-decoration: none;
+}
+
+#header a:hover {
+	color: #000;
+}
+
+#content {
+	font-size: 14px;
+	line-height: 1.6;
+	max-width: 700px;
+	margin-top: 50px;
+}
+
+#content ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+#content a {
+	color: #0006ff;
+	text-decoration: underline;
+}
+
+#content a:hover {
+	text-decoration: none;
+	background-color: #ffff00;
+}
